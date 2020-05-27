@@ -1,0 +1,22 @@
+yarn add styled-components
+
+yarn add @types/styled-components
+
+yarn add react-icons
+
+yarn add polished
+
+yarn add @unform/core @unform/web
+-- biblioteca de fazer validacao de formulario
+yarn add yup
+
+yarn add @types/yup -D
+
+yarn add axios
+
+--biblioteca para fazer animações
+yarn add react-spring
+
+yarn add react-router-dom
+
+yarn add @types/react-router-dom -D
