@@ -20,3 +20,5 @@ yarn add react-spring
 yarn add react-router-dom
 
 yarn add @types/react-router-dom -D
+
+yarn add react-day-picker
